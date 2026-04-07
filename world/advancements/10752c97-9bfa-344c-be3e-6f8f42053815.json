@@ -1,0 +1,35 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2020-08-06 20:50:54 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-08-06 20:44:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2020-08-06 20:50:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-08-06 20:50:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-08-06 20:42:32 +0300",
+      "minecraft:taiga": "2020-08-06 20:41:46 +0300",
+      "minecraft:plains": "2020-08-06 20:42:30 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
