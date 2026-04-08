@@ -1,0 +1,27 @@
+{
+  "exoticbirds:default/root": {
+    "criteria": {
+      "launch_mod": "2024-04-05 18:59:26 +0300"
+    },
+    "done": true
+  },
+  "simpledrills:simple_drills": {
+    "criteria": {
+      "simple_drills": "2024-04-05 18:59:26 +0300"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2024-04-05 18:59:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-04-05 18:59:27 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
